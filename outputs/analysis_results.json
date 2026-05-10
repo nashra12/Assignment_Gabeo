@@ -1,0 +1,212 @@
+{
+  "summary": {
+    "total_claims": 30,
+    "paid_claims": 18,
+    "denied_claims": 12,
+    "analyzed_claims": 12,
+    "clusters": 2
+  },
+  "analyses": [
+    {
+      "claim_id": "CLM-2026-01005",
+      "root_cause": "These are non-covered services because this is not deemed a medical necessity",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 9932.55,
+      "recommended_action": "Appeal with clinical documentation supporting medical necessity",
+      "appeal_priority": "high",
+      "evidence": [
+        "CARC Code: 50",
+        "Denial Amount: $9,932.55",
+        "Payer: Blue Cross Blue Shield",
+        "Service Date: 2026-02-12"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01004",
+      "root_cause": "Claim/service lacks information or has submission/billing error(s) needed for adjudication",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 1878.46,
+      "recommended_action": "Submit missing documentation or correct billing errors",
+      "appeal_priority": "medium",
+      "evidence": [
+        "CARC Code: 16",
+        "Denial Amount: $1,878.46",
+        "Payer: Cigna",
+        "Service Date: 2025-10-27"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01010",
+      "root_cause": "The time limit for filing has expired",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 242.6,
+      "recommended_action": "Appeal with delay reason code and supporting documentation",
+      "appeal_priority": "low",
+      "evidence": [
+        "CARC Code: 29",
+        "Denial Amount: $242.60",
+        "Payer: Blue Cross Blue Shield",
+        "Service Date: 2026-01-11"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01002",
+      "root_cause": "Non-covered charge(s)",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 24462.32,
+      "recommended_action": "Review contract; if coverage expected, appeal with policy documentation",
+      "appeal_priority": "high",
+      "evidence": [
+        "CARC Code: 96",
+        "Denial Amount: $24,462.32",
+        "Payer: United Healthcare",
+        "Service Date: 2025-11-04"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01007",
+      "root_cause": "Claim/service lacks information or has submission/billing error(s) needed for adjudication",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 5064.91,
+      "recommended_action": "Submit missing documentation or correct billing errors",
+      "appeal_priority": "high",
+      "evidence": [
+        "CARC Code: 16",
+        "Denial Amount: $5,064.91",
+        "Payer: Cigna",
+        "Service Date: 2026-01-29"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01003",
+      "root_cause": "Claim/service lacks information or has submission/billing error(s) needed for adjudication",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 2520.5,
+      "recommended_action": "Submit missing documentation or correct billing errors",
+      "appeal_priority": "medium",
+      "evidence": [
+        "CARC Code: 16",
+        "Denial Amount: $2,520.50",
+        "Payer: Blue Cross Blue Shield",
+        "Service Date: 2025-10-20"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01008",
+      "root_cause": "Exact duplicate claim/service",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 267.12,
+      "recommended_action": "Review for true duplicate; if not, submit with corrected claim number",
+      "appeal_priority": "low",
+      "evidence": [
+        "CARC Code: 18",
+        "Denial Amount: $267.12",
+        "Payer: Cigna",
+        "Service Date: 2025-11-23"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01009",
+      "root_cause": "Claim/service lacks information or has submission/billing error(s) needed for adjudication",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 3110.7,
+      "recommended_action": "Submit missing documentation or correct billing errors",
+      "appeal_priority": "medium",
+      "evidence": [
+        "CARC Code: 16",
+        "Denial Amount: $3,110.70",
+        "Payer: Cigna",
+        "Service Date: 2026-03-06"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01011",
+      "root_cause": "Precertification/authorization/notification absent",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 1387.72,
+      "recommended_action": "Obtain retroactive authorization if possible, or appeal with proof of emergency",
+      "appeal_priority": "medium",
+      "evidence": [
+        "CARC Code: 197",
+        "Denial Amount: $1,387.72",
+        "Payer: Aetna",
+        "Service Date: 2025-11-20"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01000",
+      "root_cause": "Claim/service lacks information or has submission/billing error(s) needed for adjudication",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 3706.8,
+      "recommended_action": "Submit missing documentation or correct billing errors",
+      "appeal_priority": "medium",
+      "evidence": [
+        "CARC Code: 16",
+        "Denial Amount: $3,706.80",
+        "Payer: Blue Cross Blue Shield",
+        "Service Date: 2026-01-27"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01006",
+      "root_cause": "An attachment/other documentation is required to adjudicate this claim/service",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 453.3,
+      "recommended_action": "Submit requested documentation",
+      "appeal_priority": "low",
+      "evidence": [
+        "CARC Code: 252",
+        "Denial Amount: $453.30",
+        "Payer: Medicare Part B",
+        "Service Date: 2026-03-15"
+      ]
+    },
+    {
+      "claim_id": "CLM-2026-01001",
+      "root_cause": "The time limit for filing has expired",
+      "recoverability": "requires_review",
+      "confidence": 0.8,
+      "financial_impact": 366.91,
+      "recommended_action": "Appeal with delay reason code and supporting documentation",
+      "appeal_priority": "low",
+      "evidence": [
+        "CARC Code: 29",
+        "Denial Amount: $366.91",
+        "Payer: Cigna",
+        "Service Date: 2025-11-04"
+      ]
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "CLUSTER_-1",
+      "label": "Miscellaneous",
+      "claim_count": 7,
+      "total_amount": 37112.52,
+      "expected_recovery": 7422.504,
+      "recovery_rate": 0.2,
+      "recommended_action": "Low recovery potential - consider write-off"
+    },
+    {
+      "cluster_id": "CLUSTER_0",
+      "label": "Cigna - Missing Info (CARC 16)",
+      "claim_count": 5,
+      "total_amount": 16281.369999999999,
+      "expected_recovery": 3256.274,
+      "recovery_rate": 0.2,
+      "recommended_action": "Low recovery potential - consider write-off"
+    }
+  ],
+  "batch_report": "======================================================================\nDENIAL BATCH ANALYSIS REPORT\n======================================================================\n\nEXECUTIVE SUMMARY:\n  Total Denied Claims: 12\n  Total Denied Amount: $53,393.89\n  Expected Recoverable: $10,678.78 (20.0%)\n\nCLUSTERS BY PRIORITY:\n\n1. Miscellaneous\n   Claims: 7\n   Amount: $37,112.52\n   Expected Recovery: $7,422.50 (20.0%)\n   Priority: HIGH\n   Payers: Medicare Part B, Cigna, Blue Cross Blue Shield\n   Common Reasons: CARC 29, CARC 50, CARC 96\n   Action: Low recovery potential - consider write-off\n\n2. Cigna - Missing Info (CARC 16)\n   Claims: 5\n   Amount: $16,281.37\n   Expected Recovery: $3,256.27 (20.0%)\n   Priority: HIGH\n   Payers: Blue Cross Blue Shield, Cigna\n   Common Reasons: CARC 16\n   Action: Low recovery potential - consider write-off\n"
+}

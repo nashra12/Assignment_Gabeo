@@ -1,0 +1,1323 @@
+[
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01005",
+      "claim_status": "4",
+      "claim_amount": 9932.55,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-07-15",
+      "statement_begin": "2026-02-12",
+      "statement_end": "2026-02-12",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "72148",
+          "modifiers": [],
+          "charged_amount": 9932.55,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "50",
+              "amount": 9932.55
+            }
+          ],
+          "remark_codes": [
+            "N386"
+          ]
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01005",
+      "amount": 9932.55,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-02-12",
+      "principal_diagnosis": "M54.5",
+      "additional_diagnoses": [
+        "M25.511",
+        "J20.9",
+        "I48.91"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Internal Medicine"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01014",
+      "claim_status": "1",
+      "claim_amount": 621.26,
+      "claim_paid": 512.98,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-03-17",
+      "statement_begin": "2025-10-20",
+      "statement_end": "2025-10-20",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "80053",
+          "modifiers": [],
+          "charged_amount": 621.26,
+          "paid_amount": 512.98,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01014",
+      "amount": 621.26,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-10-20",
+      "principal_diagnosis": "J20.9",
+      "additional_diagnoses": [
+        "M54.5"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01017",
+      "claim_status": "1",
+      "claim_amount": 2478.11,
+      "claim_paid": 2285.88,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-05-09",
+      "statement_begin": "2026-03-20",
+      "statement_end": "2026-03-20",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "71020",
+          "modifiers": [],
+          "charged_amount": 2478.11,
+          "paid_amount": 2285.88,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01017",
+      "amount": 2478.11,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-03-20",
+      "principal_diagnosis": "E11.9",
+      "additional_diagnoses": [
+        "M17.11",
+        "J06.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01004",
+      "claim_status": "4",
+      "claim_amount": 1878.46,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-01-28",
+      "statement_begin": "2025-10-27",
+      "statement_end": "2025-10-27",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "71020",
+          "modifiers": [],
+          "charged_amount": 1878.46,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "16",
+              "amount": 1878.46
+            }
+          ],
+          "remark_codes": [
+            "N20"
+          ]
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01004",
+      "amount": 1878.46,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-10-27",
+      "principal_diagnosis": "J06.9",
+      "additional_diagnoses": [
+        "E11.9",
+        "J20.9",
+        "E66.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01010",
+      "claim_status": "4",
+      "claim_amount": 242.6,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-09-23",
+      "statement_begin": "2026-01-11",
+      "statement_end": "2026-01-11",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "99215",
+          "modifiers": [],
+          "charged_amount": 242.6,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "29",
+              "amount": 242.6
+            }
+          ],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01010",
+      "amount": 242.6,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-01-11",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [
+        "M54.5"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": "1",
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01002",
+      "claim_status": "4",
+      "claim_amount": 24462.32,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-02-18",
+      "statement_begin": "2025-11-04",
+      "statement_end": "2025-11-04",
+      "payer_name": "United Healthcare",
+      "payer_id": "UHC",
+      "service_lines": [
+        {
+          "procedure_code": "27447",
+          "modifiers": [],
+          "charged_amount": 24462.32,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "96",
+              "amount": 24462.32
+            }
+          ],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01002",
+      "amount": 24462.32,
+      "payer_name": "United Healthcare",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-11-04",
+      "principal_diagnosis": "I48.91",
+      "additional_diagnoses": [],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01029",
+      "claim_status": "1",
+      "claim_amount": 12660.71,
+      "claim_paid": 10337.23,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-03-18",
+      "statement_begin": "2026-01-28",
+      "statement_end": "2026-01-28",
+      "payer_name": "Aetna",
+      "payer_id": "AETNA",
+      "service_lines": [
+        {
+          "procedure_code": "43239",
+          "modifiers": [],
+          "charged_amount": 12660.71,
+          "paid_amount": 10337.23,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01029",
+      "amount": 12660.71,
+      "payer_name": "Aetna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-01-28",
+      "principal_diagnosis": "M54.5",
+      "additional_diagnoses": [
+        "J06.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01007",
+      "claim_status": "4",
+      "claim_amount": 5064.91,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-08-11",
+      "statement_begin": "2026-01-29",
+      "statement_end": "2026-01-29",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "27447",
+          "modifiers": [],
+          "charged_amount": 5064.91,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "16",
+              "amount": 5064.91
+            }
+          ],
+          "remark_codes": [
+            "N20"
+          ]
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01007",
+      "amount": 5064.91,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-01-29",
+      "principal_diagnosis": "E78.5",
+      "additional_diagnoses": [
+        "E78.5"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01003",
+      "claim_status": "4",
+      "claim_amount": 2520.5,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-02-23",
+      "statement_begin": "2025-10-20",
+      "statement_end": "2025-10-20",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "70553",
+          "modifiers": [],
+          "charged_amount": 2520.5,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "16",
+              "amount": 2520.5
+            }
+          ],
+          "remark_codes": [
+            "N20"
+          ]
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01003",
+      "amount": 2520.5,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-10-20",
+      "principal_diagnosis": "M54.5",
+      "additional_diagnoses": [],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Gastroenterology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01020",
+      "claim_status": "1",
+      "claim_amount": 4595.7,
+      "claim_paid": 3394.56,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-01-19",
+      "statement_begin": "2025-11-17",
+      "statement_end": "2025-11-17",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "70553",
+          "modifiers": [],
+          "charged_amount": 4595.7,
+          "paid_amount": 3394.56,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01020",
+      "amount": 4595.7,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-11-17",
+      "principal_diagnosis": "J06.9",
+      "additional_diagnoses": [
+        "J44.1",
+        "M54.5"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01016",
+      "claim_status": "1",
+      "claim_amount": 12915.72,
+      "claim_paid": 12264.94,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-05-14",
+      "statement_begin": "2025-11-14",
+      "statement_end": "2025-11-14",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "43239",
+          "modifiers": [],
+          "charged_amount": 12915.72,
+          "paid_amount": 12264.94,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01016",
+      "amount": 12915.72,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-11-14",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [
+        "J06.9",
+        "J20.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Orthopedic Surgery"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01008",
+      "claim_status": "4",
+      "claim_amount": 267.12,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-03-05",
+      "statement_begin": "2025-11-23",
+      "statement_end": "2025-11-23",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "99215",
+          "modifiers": [],
+          "charged_amount": 267.12,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "18",
+              "amount": 267.12
+            }
+          ],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01008",
+      "amount": 267.12,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-11-23",
+      "principal_diagnosis": "E78.5",
+      "additional_diagnoses": [],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Gastroenterology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01027",
+      "claim_status": "1",
+      "claim_amount": 903.39,
+      "claim_paid": 688.65,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Medicare",
+      "received_date": "2026-02-04",
+      "statement_begin": "2025-12-02",
+      "statement_end": "2025-12-02",
+      "payer_name": "Medicare Part B",
+      "payer_id": "MEDICARE",
+      "service_lines": [
+        {
+          "procedure_code": "80053",
+          "modifiers": [],
+          "charged_amount": 903.39,
+          "paid_amount": 688.65,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01027",
+      "amount": 903.39,
+      "payer_name": "Medicare Part B",
+      "insurance_type": "Medicare",
+      "service_date_from": "2025-12-02",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Family Practice"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01028",
+      "claim_status": "1",
+      "claim_amount": 3974.62,
+      "claim_paid": 3491.25,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-04-22",
+      "statement_begin": "2025-12-12",
+      "statement_end": "2025-12-12",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "70553",
+          "modifiers": [],
+          "charged_amount": 3974.62,
+          "paid_amount": 3491.25,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01028",
+      "amount": 3974.62,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-12-12",
+      "principal_diagnosis": "E78.5",
+      "additional_diagnoses": [
+        "E66.9",
+        "E78.5",
+        "M25.511"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Orthopedic Surgery"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01019",
+      "claim_status": "1",
+      "claim_amount": 531.01,
+      "claim_paid": 482.5,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-07-24",
+      "statement_begin": "2026-03-27",
+      "statement_end": "2026-03-27",
+      "payer_name": "United Healthcare",
+      "payer_id": "UHC",
+      "service_lines": [
+        {
+          "procedure_code": "99214",
+          "modifiers": [],
+          "charged_amount": 531.01,
+          "paid_amount": 482.5,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01019",
+      "amount": 531.01,
+      "payer_name": "United Healthcare",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-03-27",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [
+        "M25.511",
+        "E78.5"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01009",
+      "claim_status": "4",
+      "claim_amount": 3110.7,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-08-18",
+      "statement_begin": "2026-03-06",
+      "statement_end": "2026-03-06",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "71020",
+          "modifiers": [],
+          "charged_amount": 3110.7,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "16",
+              "amount": 3110.7
+            }
+          ],
+          "remark_codes": [
+            "N20"
+          ]
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01009",
+      "amount": 3110.7,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-03-06",
+      "principal_diagnosis": "I48.91",
+      "additional_diagnoses": [
+        "J20.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Family Practice"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01011",
+      "claim_status": "4",
+      "claim_amount": 1387.72,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-03-20",
+      "statement_begin": "2025-11-20",
+      "statement_end": "2025-11-20",
+      "payer_name": "Aetna",
+      "payer_id": "AETNA",
+      "service_lines": [
+        {
+          "procedure_code": "27447",
+          "modifiers": [],
+          "charged_amount": 1387.72,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "197",
+              "amount": 1387.72
+            }
+          ],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01011",
+      "amount": 1387.72,
+      "payer_name": "Aetna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-11-20",
+      "principal_diagnosis": "I10",
+      "additional_diagnoses": [
+        "E11.9",
+        "J06.9",
+        "M17.11"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Gastroenterology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01021",
+      "claim_status": "1",
+      "claim_amount": 4456.26,
+      "claim_paid": 4142.6,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-05-09",
+      "statement_begin": "2026-02-25",
+      "statement_end": "2026-02-25",
+      "payer_name": "Aetna",
+      "payer_id": "AETNA",
+      "service_lines": [
+        {
+          "procedure_code": "70553",
+          "modifiers": [],
+          "charged_amount": 4456.26,
+          "paid_amount": 4142.6,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01021",
+      "amount": 4456.26,
+      "payer_name": "Aetna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-02-25",
+      "principal_diagnosis": "M54.5",
+      "additional_diagnoses": [
+        "E11.9",
+        "I25.10"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Internal Medicine"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01015",
+      "claim_status": "1",
+      "claim_amount": 557.02,
+      "claim_paid": 448.29,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-08-27",
+      "statement_begin": "2026-02-26",
+      "statement_end": "2026-02-26",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "99215",
+          "modifiers": [],
+          "charged_amount": 557.02,
+          "paid_amount": 448.29,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01015",
+      "amount": 557.02,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-02-26",
+      "principal_diagnosis": "M54.5",
+      "additional_diagnoses": [],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01025",
+      "claim_status": "1",
+      "claim_amount": 20715.18,
+      "claim_paid": 17147.89,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Medicare",
+      "received_date": "2027-01-08",
+      "statement_begin": "2026-02-22",
+      "statement_end": "2026-02-22",
+      "payer_name": "Medicare Part B",
+      "payer_id": "MEDICARE",
+      "service_lines": [
+        {
+          "procedure_code": "43239",
+          "modifiers": [],
+          "charged_amount": 20715.18,
+          "paid_amount": 17147.89,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01025",
+      "amount": 20715.18,
+      "payer_name": "Medicare Part B",
+      "insurance_type": "Medicare",
+      "service_date_from": "2026-02-22",
+      "principal_diagnosis": "M17.11",
+      "additional_diagnoses": [
+        "J06.9",
+        "E11.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Gastroenterology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01023",
+      "claim_status": "1",
+      "claim_amount": 790.54,
+      "claim_paid": 656.13,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-05-07",
+      "statement_begin": "2026-03-29",
+      "statement_end": "2026-03-29",
+      "payer_name": "United Healthcare",
+      "payer_id": "UHC",
+      "service_lines": [
+        {
+          "procedure_code": "99215",
+          "modifiers": [],
+          "charged_amount": 790.54,
+          "paid_amount": 656.13,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01023",
+      "amount": 790.54,
+      "payer_name": "United Healthcare",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-03-29",
+      "principal_diagnosis": "I25.10",
+      "additional_diagnoses": [
+        "E11.9",
+        "I10"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Orthopedic Surgery"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01000",
+      "claim_status": "4",
+      "claim_amount": 3706.8,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-06-25",
+      "statement_begin": "2026-01-27",
+      "statement_end": "2026-01-27",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "72148",
+          "modifiers": [],
+          "charged_amount": 3706.8,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "16",
+              "amount": 3706.8
+            }
+          ],
+          "remark_codes": [
+            "N20"
+          ]
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01000",
+      "amount": 3706.8,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-01-27",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Family Practice"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01022",
+      "claim_status": "1",
+      "claim_amount": 2313.05,
+      "claim_paid": 1954.87,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-02-15",
+      "statement_begin": "2026-01-19",
+      "statement_end": "2026-01-19",
+      "payer_name": "United Healthcare",
+      "payer_id": "UHC",
+      "service_lines": [
+        {
+          "procedure_code": "72148",
+          "modifiers": [],
+          "charged_amount": 2313.05,
+          "paid_amount": 1954.87,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01022",
+      "amount": 2313.05,
+      "payer_name": "United Healthcare",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-01-19",
+      "principal_diagnosis": "M25.511",
+      "additional_diagnoses": [
+        "E11.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01018",
+      "claim_status": "1",
+      "claim_amount": 17684.76,
+      "claim_paid": 14252.04,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-05-15",
+      "statement_begin": "2026-02-27",
+      "statement_end": "2026-02-27",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "43239",
+          "modifiers": [],
+          "charged_amount": 17684.76,
+          "paid_amount": 14252.04,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01018",
+      "amount": 17684.76,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-02-27",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [
+        "J06.9",
+        "I25.10"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Family Practice"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01024",
+      "claim_status": "1",
+      "claim_amount": 18267.75,
+      "claim_paid": 13663.55,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-03-29",
+      "statement_begin": "2026-02-16",
+      "statement_end": "2026-02-16",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "43239",
+          "modifiers": [],
+          "charged_amount": 18267.75,
+          "paid_amount": 13663.55,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01024",
+      "amount": 18267.75,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-02-16",
+      "principal_diagnosis": "M25.511",
+      "additional_diagnoses": [
+        "I10",
+        "J44.1"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01012",
+      "claim_status": "1",
+      "claim_amount": 271.19,
+      "claim_paid": 219.88,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-07-25",
+      "statement_begin": "2026-03-23",
+      "statement_end": "2026-03-23",
+      "payer_name": "Blue Cross Blue Shield",
+      "payer_id": "BCBS",
+      "service_lines": [
+        {
+          "procedure_code": "84443",
+          "modifiers": [],
+          "charged_amount": 271.19,
+          "paid_amount": 219.88,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01012",
+      "amount": 271.19,
+      "payer_name": "Blue Cross Blue Shield",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-03-23",
+      "principal_diagnosis": "E11.9",
+      "additional_diagnoses": [
+        "J06.9"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Internal Medicine"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01013",
+      "claim_status": "1",
+      "claim_amount": 443.85,
+      "claim_paid": 357.63,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-07-24",
+      "statement_begin": "2026-03-13",
+      "statement_end": "2026-03-13",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "99215",
+          "modifiers": [],
+          "charged_amount": 443.85,
+          "paid_amount": 357.63,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01013",
+      "amount": 443.85,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2026-03-13",
+      "principal_diagnosis": "M54.5",
+      "additional_diagnoses": [
+        "M25.511"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Orthopedic Surgery"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01026",
+      "claim_status": "1",
+      "claim_amount": 386.25,
+      "claim_paid": 325.96,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2025-12-20",
+      "statement_begin": "2025-10-21",
+      "statement_end": "2025-10-21",
+      "payer_name": "Aetna",
+      "payer_id": "AETNA",
+      "service_lines": [
+        {
+          "procedure_code": "99214",
+          "modifiers": [],
+          "charged_amount": 386.25,
+          "paid_amount": 325.96,
+          "adjustments": [],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01026",
+      "amount": 386.25,
+      "payer_name": "Aetna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-10-21",
+      "principal_diagnosis": "E11.9",
+      "additional_diagnoses": [
+        "I25.10"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Orthopedic Surgery"
+    },
+    "is_denied": false
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01006",
+      "claim_status": "4",
+      "claim_amount": 453.3,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Medicare",
+      "received_date": "2026-04-26",
+      "statement_begin": "2026-03-15",
+      "statement_end": "2026-03-15",
+      "payer_name": "Medicare Part B",
+      "payer_id": "MEDICARE",
+      "service_lines": [
+        {
+          "procedure_code": "99213",
+          "modifiers": [],
+          "charged_amount": 453.3,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "252",
+              "amount": 453.3
+            }
+          ],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01006",
+      "amount": 453.3,
+      "payer_name": "Medicare Part B",
+      "insurance_type": "Medicare",
+      "service_date_from": "2026-03-15",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [
+        "I25.10"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Cardiology"
+    },
+    "is_denied": true
+  },
+  {
+    "remittance": {
+      "claim_id": "CLM-2026-01001",
+      "claim_status": "4",
+      "claim_amount": 366.91,
+      "claim_paid": 0.0,
+      "patient_responsibility": 0.0,
+      "insurance_type": "Commercial",
+      "received_date": "2026-05-24",
+      "statement_begin": "2025-11-04",
+      "statement_end": "2025-11-04",
+      "payer_name": "Cigna",
+      "payer_id": "CIGNA",
+      "service_lines": [
+        {
+          "procedure_code": "99215",
+          "modifiers": [],
+          "charged_amount": 366.91,
+          "paid_amount": 0.0,
+          "adjustments": [
+            {
+              "group": "CO",
+              "reason_code": "29",
+              "amount": 366.91
+            }
+          ],
+          "remark_codes": []
+        }
+      ]
+    },
+    "submission": {
+      "claim_no": "CLM-2026-01001",
+      "amount": 366.91,
+      "payer_name": "Cigna",
+      "insurance_type": "Commercial",
+      "service_date_from": "2025-11-04",
+      "principal_diagnosis": "J44.1",
+      "additional_diagnoses": [
+        "J06.9",
+        "E78.5",
+        "I10"
+      ],
+      "prior_authorization": null,
+      "claim_frequency": "1",
+      "delay_reason_code": null,
+      "rend_prov_specialty": "Radiology"
+    },
+    "is_denied": true
+  }
+]

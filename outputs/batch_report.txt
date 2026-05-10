@@ -1,0 +1,28 @@
+======================================================================
+DENIAL BATCH ANALYSIS REPORT
+======================================================================
+
+EXECUTIVE SUMMARY:
+  Total Denied Claims: 12
+  Total Denied Amount: $53,393.89
+  Expected Recoverable: $10,678.78 (20.0%)
+
+CLUSTERS BY PRIORITY:
+
+1. Miscellaneous
+   Claims: 7
+   Amount: $37,112.52
+   Expected Recovery: $7,422.50 (20.0%)
+   Priority: HIGH
+   Payers: Medicare Part B, Cigna, Blue Cross Blue Shield
+   Common Reasons: CARC 29, CARC 50, CARC 96
+   Action: Low recovery potential - consider write-off
+
+2. Cigna - Missing Info (CARC 16)
+   Claims: 5
+   Amount: $16,281.37
+   Expected Recovery: $3,256.27 (20.0%)
+   Priority: HIGH
+   Payers: Blue Cross Blue Shield, Cigna
+   Common Reasons: CARC 16
+   Action: Low recovery potential - consider write-off
