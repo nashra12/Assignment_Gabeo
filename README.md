@@ -2,7 +2,6 @@
 
 This project automates the analysis of insurance claim denials for healthcare providers. Given EDI 835 (remittance) and 837 (claim submission) data, the system identifies denial root causes, assesses recovery potential, and groups similar denials for batch processing.
 Here you can find the recording of flow; https://drive.google.com/file/d/1moRXQ7sCYLLu8IeagTa8_sIyL2sKeXqk/view?usp=sharing
----
 
 ## What This System Does
 
